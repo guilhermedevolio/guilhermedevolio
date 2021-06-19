@@ -10,6 +10,8 @@ I discovered the passion for development at the age of 12, since then I've been 
 
 I'm currently studying the .NET platform, I'm really enjoying it and falling in love with the platform
 
+I'm currently working on this project: https://github.com/Guilherme5889/Lunaroom
+
 ## About me
 
 * Name: Guilherme Devólio
