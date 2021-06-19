@@ -12,9 +12,9 @@ I'm currently studying the .NET platform, I'm really enjoying it and falling in 
 
 ## About me
 
-    Name: Guilherme Devólio
-    Age: 17
-    Current Stack: PHP - Laravel - SQL - React JS
+* Name: Guilherme Devólio
+* Age: 17
+* Current Stack: PHP - Laravel - SQL - React JS
 
 ## Leaving the Professional Context
 
