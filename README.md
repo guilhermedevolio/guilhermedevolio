@@ -24,7 +24,17 @@ In my free time, I like to be with my family, sometimes I do exercises and espec
 
 ## My Social Networks
 
-    Twitter: https://twitter.com/DevGuilherme1
-    Instagram: https://instagram.com/guilhermedevolio/
-    Linkedin: https://www.linkedin.com/in/guilherme-dev%C3%B3lio-3442a01b4/
-    Youtube: https://www.youtube.com/channel/UCWvpng3UehEnVM8THSNW15A
+<div>
+    <a target='_blank' href="https://twitter.com/DevGuilherme1">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a target='_blank' href="https://instagram.com/guilhermedevolio">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target='_blank' href="https://linkedin.com/in/https://www.linkedin.com/in/guilherme-dev%C3%B3lio-3442a01b4/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a target='_blank' href="https://www.youtube.com/channel/UCWvpng3UehEnVM8THSNW15A">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+</div>
