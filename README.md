@@ -1,5 +1,3 @@
-### Hello Devs 👋
-
 Thanks for visiting here, I'll tell you a little more about me.
 
 ## Information
