@@ -1,37 +1,42 @@
-Thanks for visiting here, I'll tell you a little more about me.
+# 👋 Olá, seja bem-vindo(a)!
 
-## Information
+Sou **Guilherme Devólio**, desenvolvedor backend apaixonado por tecnologia, sistemas escaláveis e soluções que realmente entregam valor.
 
-My name is Guilherme Devólio, I live in the interior of São Paulo
+---
 
-I discovered the passion for development at the age of 12, since then I've been studying PHP and increasingly passionate about PHP and Laravel
+## 🧑‍💻 Sobre mim
 
-I'm currently studying the .NET platform, I'm really enjoying it and falling in love with the platform
+Desde os 12 anos, descobri minha paixão por desenvolvimento de software. Comecei com PHP e Laravel e, ao longo dos anos, ampliei meu conhecimento para diversas tecnologias e boas práticas, sempre buscando evoluir como profissional.
 
-Working at: <b> GND Software </b>
+Atualmente, tenho mais de 5 anos de experiência focado em desenvolvimento backend, com forte atuação em **Node.js**, **NestJS**, **Laravel** e arquitetura de **microsserviços**. Também sou especialista em **AWS** e apaixonado por soluções **Serverless**.
 
-## About me
+Trabalho hoje na **GND Software**, onde ajudo a construir sistemas robustos, escaláveis e com alta performance.
 
-* Name: Guilherme Devólio
-* Age: 20
-* Current Stack: PHP - Laravel - SQL - React JS
+---
 
-## Leaving the Professional Context
+## ⚒️ Stack & Competências
 
-In my free time, I like to be with my family, sometimes I do exercises and especially Teach beginners who have no financial condition, thus trying to change the person's life for the better
+- **Backend:** Node.js, NestJS, Laravel, PHP  
+- **Frontend:** React JS, React Native, NextJS  
+- **Cloud:** AWS (EC2, Lambda, RDS, S3, CloudFront)  
+- **Arquitetura:** Microsserviços, Serverless  
+- **Boas Práticas:** SOLID, DDD, TDD  
+- **Mensageria:** RabbitMQ, Kafka  
+- **Banco de Dados:** SQL  
 
-**I love teaching!**
+---
 
-## My Social Networks
+## 🧩 Fora do ambiente profissional
 
-<div>
-    <a target='_blank' href="https://twitter.com/DevGuilherme1">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a target='_blank' href="https://www.linkedin.com/in/guidevolio/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a target='_blank' href="https://www.youtube.com/channel/UCWvpng3UehEnVM8THSNW15A">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-    </a>
-</div>
+Quando não estou codando ou estudando, gosto de aproveitar o tempo com minha família, praticar atividades físicas e, principalmente, ensinar. Tenho um projeto pessoal onde auxilio iniciantes sem condições financeiras a darem os primeiros passos na tecnologia, pois acredito que o conhecimento pode transformar vidas.
+
+**Ensinar é uma das minhas grandes paixões!**
+
+---
+
+## 🌐 Onde me encontrar
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevGuilherme1)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guidevolio/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermedevolio)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWvpng3UehEnVM8THSNW15A)  
