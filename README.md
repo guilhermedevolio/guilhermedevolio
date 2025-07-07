@@ -10,7 +10,7 @@ Desde os 12 anos, descobri minha paixão por desenvolvimento de software. Comece
 
 Atualmente, tenho mais de 5 anos de experiência focado em desenvolvimento backend, com forte atuação em **Node.js**, **NestJS**, **Laravel** e arquitetura de **microsserviços**. Também sou especialista em **AWS** e apaixonado por soluções **Serverless**.
 
-Trabalho hoje na **GND Software**, onde ajudo a construir sistemas robustos, escaláveis e com alta performance.
+Trabalho hoje na **Guichê Web**, onde ajudo a construir sistemas robustos, escaláveis e com alta performance.
 
 ---
 
