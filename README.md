@@ -8,7 +8,7 @@ Sou **Guilherme Devólio**, desenvolvedor backend apaixonado por tecnologia, sis
 
 Desde os 12 anos, descobri minha paixão por desenvolvimento de software. Comecei com PHP e Laravel e, ao longo dos anos, ampliei meu conhecimento para diversas tecnologias e boas práticas, sempre buscando evoluir como profissional.
 
-Atualmente, tenho mais de 5 anos de experiência focado em desenvolvimento backend, com forte atuação em **Node.js**, **NestJS**, **Laravel** e arquitetura de **microsserviços**. Também sou especialista em **AWS** e apaixonado por soluções **Serverless**.
+Atualmente, tenho mais de 5 anos de experiência atuando no mercado, focado em desenvolvimento backend, com forte atuação em **Node.js**, **NestJS**, **Laravel** e arquitetura de **microsserviços**. Também sou especialista em **AWS** e apaixonado por soluções **Serverless**.
 
 Trabalho hoje na **Guichê Web**, onde ajudo a construir sistemas robustos, escaláveis e com alta performance.
 
