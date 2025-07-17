@@ -28,7 +28,7 @@ Trabalho hoje na **Guichê Web**, onde ajudo a construir sistemas robustos, esca
 
 ## 🧩 Fora do ambiente profissional
 
-Quando não estou codando ou estudando, gosto de aproveitar o tempo com minha família, praticar atividades físicas e, principalmente, ensinar. Tenho um projeto pessoal onde auxilio iniciantes sem condições financeiras a darem os primeiros passos na tecnologia, pois acredito que o conhecimento pode transformar vidas.
+Quando não estou codando ou estudando, gosto de aproveitar o tempo com minha família, sou extremamente apaixonado por carros, principalmento projetos customizados (potência, stage...) e ensinar. Tenho um projeto pessoal onde auxilio iniciantes sem condições financeiras a darem os primeiros passos na tecnologia, pois acredito que o conhecimento pode transformar vidas.
 
 **Ensinar é uma das minhas grandes paixões!**
 
